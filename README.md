@@ -6,7 +6,6 @@ BankAccount Class: The BankAccount class represents a generic bank account with 
 SavingsAccount Class: The SavingsAccount class inherits from the BankAccount class and includes an additional attribute for interest rate. It also provides a method to add interest to the account balance.
 readCustomers Function: The program includes a function called readCustomers that reads customer information from an input file (customer.txt) and creates a list of SavingsAccount objects based on the data in the file.
 make_operations Function: The program includes a function called make_operations that reads operations from an input file (account.txt) and performs the corresponding operations (e.g., deposit, withdrawal, transfer, and interest calculation) on the accounts in the list.
-## Getting Started
 ## Prerequisites
 Python 3.x
 ## How to Use
